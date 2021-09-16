@@ -34,9 +34,3 @@ PRODUCT_MODEL := SM-N960F
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
-
-BUILD_FINGERPRINT := samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5DTCA:user/release-keys
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-        PRODUCT_NAME=crownltexx \
-        PRIVATE_BUILD_DESC="crownltexx-user 10 QP1A.190711.020 N960FXXU5DTCA release-keys"
